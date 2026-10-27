@@ -1,4 +1,4 @@
-# Praca w Grupach Ściąga
+# Praca w Grupach Ściąga z Ryd2ak
 ## Sekcja
 - element listy
 
